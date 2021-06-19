@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bplus_tree_file.dir/examples/bf_main.c.o CMakeFiles/bplus_tree_file.dir/examples/main1.c.o CMakeFiles/bplus_tree_file.dir/examples/main2.c.o CMakeFiles/bplus_tree_file.dir/examples/main3.c.o CMakeFiles/bplus_tree_file.dir/src/AM.c.o CMakeFiles/bplus_tree_file.dir/src/functions.c.o  -o bplus_tree_file 
